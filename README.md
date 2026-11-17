@@ -91,6 +91,8 @@ plt.show()
 ```
 ## Output 1
 <img width="686" height="547" alt="image" src="https://github.com/user-attachments/assets/b45a6514-25ce-4963-8297-f1cd4f4ac231" />
+
+
 ## Input 2
 ```
 # 7. Display cluster details
