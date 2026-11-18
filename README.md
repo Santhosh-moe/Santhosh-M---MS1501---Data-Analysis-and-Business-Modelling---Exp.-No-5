@@ -109,7 +109,7 @@ Cluster Labels for Data Points:
 print("\nCluster Centroids (Coordinates):")
 print(centroids)
 ```
-## Output 
+## Output 3
 ```
 Cluster Centroids (Coordinates):
 [[75.66666667 82.83333333]
@@ -118,3 +118,4 @@ Cluster Centroids (Coordinates):
 ```
 ## Result
 
+Thus, the K-Means Clustering algorithm was implemented using Python to group similar data points into distinct clusters. The clusters were visualized and analysed for market segmentation, and the objective was successfully achieved.
